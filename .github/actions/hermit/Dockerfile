@@ -25,4 +25,4 @@ ENTRYPOINT [\
     "--classify", \
     "--classifyOPs" \
 ]
-CMD ["owl/EASE-UGLY.owl"]
+CMD ["owl/EASE-EMPTY.owl"]
